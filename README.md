@@ -44,4 +44,9 @@
 
 2. Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow и скриншоты workflow приложите к решению задания.
 
+[Bug workflow](https://github.com/Markin-AI/ci-01/blob/main/Bug.xml)
+
+[Others workflow](https://github.com/Markin-AI/ci-01/blob/main/Others.xml)
+
+
 ---
